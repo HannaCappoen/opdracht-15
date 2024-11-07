@@ -1,0 +1,57 @@
+body{
+    background-color: burlywood;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding: 5px;
+    font-family: Verdana, sans-serif;
+    
+}
+ul a{
+    color: purple;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    border-radius: 15px;
+    height: 25px;
+    width: 100px;
+    padding: 13px;
+    text-align: center;
+    color: white;
+    border-left: 2px gold;
+    border-right: 1px gold;
+    background-color: lightcoral;
+}
+li:hover{
+    background-color: red;
+    border-style: none;
+}
+p{
+    color: green;
+}
+img{
+    width: 175px;
+    height: 250px;
+}
+footer{
+    color: white;
+}
+form{
+    color: green;
+}
+button{
+    background-color: lightcoral;
+    color: purple;
+}
+button:active{
+    background-color: red;
+    color: purple;
+}
+table{
+    background-color: lightcoral;
+    color: green;
+    border
+}
+td, th{
+    padding: 10px 15px;
+}
